@@ -4,3 +4,18 @@ This repository holds the code for the Sorting Alogrithms website that gives you
 
 Sorting Algorithm webpage URL:
 (Use FireFox or Chrome for the best experience) https://qodemaster.github.io/Sorting-Algorithms/
+
+
+## Quick Guide
+- Placeholder text -
+
+## Algorithm Descriptions
+**BubbleSort** (Optimized)  : - Placeholder text -
+
+**MergeSort**               : - Placeholder text -
+
+**QuickSort**               : - Placeholder text -
+
+**HeapSort**                : - Placeholder text -
+
+**RadixSort** (With buckets): - Placeholder text -
