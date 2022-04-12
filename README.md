@@ -12,6 +12,7 @@ A guest can generate a new unsorted array by pressing the "Generate New Array"-b
 
 ### Size/Speed
 The size of the unsorted array and the speed of sorting can be altered by moving each slider respectively.
+___
 ![sliders](https://user-images.githubusercontent.com/59826211/162976032-95dfe926-eac8-43bd-955f-8e67be811802.PNG)
 
 ### Default mode
