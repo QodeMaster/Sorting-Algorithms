@@ -25,8 +25,11 @@ The color of the staples are contingent upon the state of the staple. The follow
 | Green | In sorted position  |
 
 ### Rainbow mode
-- Placeholder text -
-- 
+The rainbow mode is accessed by pressing the rainbow button that is to the left of the play button.
+___
+![toggleRainbowMode](https://user-images.githubusercontent.com/59826211/163394658-d639dbbd-61e2-4473-bfd6-0d38d7a1ed58.PNG)
+This will sort the staples in respect to height and color order according to the colors of the rainbow.
+
 ## Algorithm Descriptions
 **BubbleSort** (Optimized)  : - Placeholder text -
 
