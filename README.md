@@ -41,3 +41,7 @@ This will sort the staples in respect to height and color order according to the
 **HeapSort**                : - Placeholder text -
 
 **RadixSort** (With buckets): - Placeholder text -
+
+## Fun facts
+Whilst in rainbow mode two staples in an sorted array that have the same height could be in wrong color order if the chosen sorting algorithm is unstable. This can only occur if two staples have the same height. The probabillity of atleast one of these pair existing can be calculated by the formula, where n = length of array:
+<img src="https://render.githubusercontent.com/render/math?math={\begin{equation*}\prod_{k=1}^{n} \frac{399 - k}{400}\end{equation*}}">
