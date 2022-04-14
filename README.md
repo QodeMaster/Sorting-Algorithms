@@ -45,4 +45,4 @@ This will sort the staples in respect to height and color order according to the
 ## Fun facts
 Whilst in rainbow mode two staples in an sorted array that have the same height could be in wrong color order if the chosen sorting algorithm is unstable. This can only occur if two staples have the same height. The probabillity of atleast one of these pair existing can be calculated by the formula, where n = length of array:
 <br/>
-![eq](https://user-images.githubusercontent.com/59826211/163401494-6b05103b-91e9-40fe-a6f7-c7eb6a307f3f.PNG)
+![eq](https://user-images.githubusercontent.com/59826211/163401784-a5b8fdae-ce5a-4ba0-8f6f-e912b90cd11c.PNG)
