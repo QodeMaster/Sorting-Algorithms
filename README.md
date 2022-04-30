@@ -32,9 +32,9 @@ ___
 This will sort the staples in respect to height and color order according to the colors of the rainbow.
 
 ## Algorithm Descriptions
-**BubbleSort** (Optimized)  : - Placeholder text -
+**BubbleSort** (Optimized)  : This sorting algorithm works by comparing two adjacent array elements and switches their position if the first one is greater than the second one. Iterating through the array in this fashion will result in the greatest element becoming placed in the last index of the array. Applying the same algoithm on every element will result in the array being sorted.
 
-**MergeSort**               : - Placeholder text -
+**MergeSort**               : The merge sort algorithm uses the "divide and conquer" strategy to sort an array. Merge Sort splits the array into smaller data sets, sorts those smaller sets, and then merges the resulting sorted lists together. The algorithm utilizes recursion to break the array into smaller sets and this overall strategy makes merge sort faster than bubble sort.
 
 **QuickSort**               : - Placeholder text -
 
