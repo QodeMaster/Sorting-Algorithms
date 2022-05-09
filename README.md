@@ -1,6 +1,6 @@
 # Sorting-Algorithms
 
-This repository holds the code for the Sorting Alogrithms website that gives you the option to visualize BubbleSort, MergeSort, QuickSort, HeapSort and RadixSort(using buckets). You can select between tow themes: the standard theme with blue staples or the rainbow theme.
+This repository holds the code for the Sorting Alogrithms website that gives you the option to visualize BubbleSort, MergeSort, QuickSort, HeapSort and RadixSort(using buckets). You can select between two themes: the standard theme with blue staples or the rainbow theme.
 
 Sorting Algorithm webpage URL:
 (Use FireFox or Chrome for the best experience) https://qodemaster.github.io/Sorting-Algorithms/
@@ -36,7 +36,7 @@ This will sort the staples in respect to height and color order according to the
 
 **MergeSort**               : The merge sort algorithm uses the "divide and conquer" strategy to sort an array. Merge Sort splits the array into smaller data sets, sorts those smaller sets, and then merges the resulting sorted lists together. The algorithm utilizes recursion to break the array into smaller sets and this overall strategy makes merge sort faster than bubble sort.
 
-**QuickSort**               : - Placeholder text -
+**QuickSort**               : Similarly to MergeSort, QuickSort is a *Divide and Conquer* algorithm. It uses pivots to partition the unsorted list into smaller data sets and sorts those sets of data. This particular implementation of the quick sort algorithm chooses the pivot index to be equal to the index of the last element in the partition.
 
 **HeapSort**                : - Placeholder text -
 
