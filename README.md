@@ -38,7 +38,7 @@ This will sort the staples in respect to height and color order according to the
 
 **QuickSort**               : Similarly to MergeSort, QuickSort is a *Divide and Conquer* algorithm. It uses pivots to partition the unsorted list into smaller data sets and sorts those sets of data. This particular implementation of the quick sort algorithm chooses the pivot index to be equal to the index of the last element in the partition.
 
-**HeapSort**                : - Placeholder text -
+**HeapSort**                : The Heap sort algorithm is as well as the previously four mentioned algorithm a comparison based sorter. It rearranges the contents of the array so that it resembles a priority queue. This action results in the greatest element being the first element. Switching the first with the element and the last element will cause the list to be sorted for that one element.  Turning the array(excluding the last element) into priority queue and repeating the process with result in the array being sorted.
 
 **RadixSort** (With buckets): - Placeholder text -
 
