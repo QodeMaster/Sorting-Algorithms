@@ -21,7 +21,7 @@ The color of the staples are contingent upon the state of the staple. The follow
 | ------------- |:-------------:|
 | Blue      | Unsorted |
 | Red     | Compared/Evaluated |
-| Purple | Position Swapped |
+| Purple | Positions Swapped |
 | Green | In sorted position  |
 
 ### Rainbow mode
